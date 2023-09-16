@@ -1,6 +1,6 @@
 ﻿
 /******************************************************************************
-* Filename    = HttpRequestBuilder.cs
+* Filename    = IHouseBuilder.cs
 *
 * Author      = [Author Name]
 *
