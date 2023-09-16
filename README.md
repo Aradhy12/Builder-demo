@@ -12,10 +12,10 @@ workloads are installed for successful building and execution.
 ## Project Structure
 
 - **House**: define a object of class for House
-- **UnitTest: Used for testing the object created by builder
+- **UnitTest**: Used for testing the object created by builder
 - **houseBuilder**: set object of different type house type 1 and type 2
 - **HouseDirector**: director is used to manage setting of object of diffrent type
-
+![Module & Class diagram](img.JPG)
 
 ## How to run
 
